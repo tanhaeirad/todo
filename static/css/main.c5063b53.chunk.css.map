@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/todo/todo.css"],"names":[],"mappings":"AAAA,cACI,iBAAkB,CAClB,YAAa,CACb,aACJ,CAEA,MACI,YACJ","file":"main.c5063b53.chunk.css","sourcesContent":[".todoCheckbox {\n    margin-right: .6em;\n    width: 1.25em;\n    height: 1.25em;\n}\n\n.hide {\n    display: none;\n}\n\n"]}
